@@ -1,0 +1,6 @@
+name: bewerbung
+author: ptg
+version: 1.0
+main: de.godgames.ptg.bewerbung.Bewerbung
+commands:
+  give:
